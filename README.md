@@ -19,6 +19,7 @@ Git_Note
 
 #####參考網站#####
 
-1.[Mastering Markdown：](https://guides.github.com/features/mastering-markdown/)
-2.[編輯工具（mouapp）：](http://mouapp.com/)
+1.[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+2.[編輯工具（mouapp）](http://mouapp.com/)
 
