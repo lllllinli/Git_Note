@@ -30,7 +30,6 @@
 ---------------------
 
 ######全域 Goldel 設定：######
-<br>
 
 ```````
 $ git config --global user.name "使用者name"
@@ -39,7 +38,6 @@ $ git config --global user.email "使用者email"
 ```````
 
 #####專案設定#####
-<br>
 
 ```````
 $ git config user.name "使用者name"
