@@ -46,6 +46,13 @@ $ git config user.email "使用者email"
 ```````
 *! 拿掉 `global`即可。*
 
+#####指定編輯工具#####
+
+``````
+$ git config --global core.editor WebStorm
+
+``````
+
 
 
 ####參考資料####
