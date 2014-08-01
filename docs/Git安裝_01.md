@@ -49,7 +49,7 @@ $ git config user.email "使用者email"
 #####指定編輯工具#####
 
 ``````
-$ git config --global core.editor WebStorm
+$ git config --global core.editor vim
 
 ``````
 
