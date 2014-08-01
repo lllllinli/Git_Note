@@ -1,25 +1,15 @@
-Git_Note
-========
+##Git_Note##
+####目錄###
 
-###README.md 編輯方式，Markdown 編輯方式。###
+1.Markdown 編輯方式：
+[markdown_note](https://github.com/lllllinli/Git_Note/blob/master/docs/markdown_note.md)
 
-#####一、標題####
-
-######標題 h1 - h6 ######
-主標 ： Html 的 h1，Markdown 
-~~~~~~~~
-#標題h1#
-~~~~~~~~
-或
-~~~~~~~~
-標題h1
-========
-~~~~~~~~
+#####參考資料#####
 
 
-#####參考網站#####
 
-1.[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-2.[編輯工具（mouapp）](http://mouapp.com/)
-
+1.Pro Git 繁體中文版。
+[http://git-scm.com/book/zh-tw/](http://git-scm.com/book/zh-tw/)<br>
+2.ihower Git 版本控制系統。
+[http://ihower.tw/git/index.html](http://ihower.tw/git/index.html)
