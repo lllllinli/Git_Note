@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13a22ef5-fdc0-4676-a202-7b70829fc068" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Git基礎概念_00.md" afterPath="$PROJECT_DIR$/docs/Git基礎概念_00.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Git安裝_01.md" afterPath="$PROJECT_DIR$/docs/Git安裝_01.md" />
-    </list>
+    <list default="true" id="13a22ef5-fdc0-4676-a202-7b70829fc068" name="Default" comment="" />
     <ignored path="Git_Note.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +39,8 @@
       <file leaf-file-name="Git安裝_01.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/Git安裝_01.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3968254" vertical-offset="0" max-vertical-offset="567">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6296296" vertical-offset="348" max-vertical-offset="915">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -290,8 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/Git安裝_01.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3968254" vertical-offset="0" max-vertical-offset="567">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6296296" vertical-offset="348" max-vertical-offset="915">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
