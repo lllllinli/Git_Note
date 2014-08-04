@@ -1,6 +1,7 @@
 #Git安裝(在 Mac OS)#
 <br>
-## 1. Mac OS 內建 Git。##
+## 1. Mac OS ##
+內建 Git。
 <br>
 ## 2. 設定 Git config ##
 <br>
@@ -47,11 +48,19 @@ $ git config --global core.editor vim
 ``````
 #####產生SSH Key#####
 
+因為 Git 的伺服器大多使用 SSH public/private key 來做認證，請用以下步驟產生 SSH Key。
 
+`````
+ssh-keygen -t rsa -C "your_email@youremail.com"
+cat ~/.ssh/id_rsa.pub
+複製下來貼到 Github 帳號 -> Account Settings -> SSH Keys 裡
+這樣在 Github 開專案，就可以 push 和 pull 下來了。
+
+`````
 
 
 ####參考資料####
 1.[http://git-scm.com/book/zh-tw/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9AGit](http://git-scm.com/book/zh-tw/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9AGit)
-
+2.ihower - Git 版本控制系統。[ihower - Git 版本控制系統](http://ihower.tw/git/intro.html)
 
 

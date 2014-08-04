@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13a22ef5-fdc0-4676-a202-7b70829fc068" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Git安裝_01.md" afterPath="$PROJECT_DIR$/docs/Git安裝_01.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Git_Note.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,14 +39,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Git安裝_01.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Git安裝_01.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/Git安裝_01.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13227513" vertical-offset="0" max-vertical-offset="975">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state vertical-scroll-proportion="-18.88889" vertical-offset="0" max-vertical-offset="1080">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Git基本指令_02.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/Git基本指令_02.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29100528" vertical-offset="0" max-vertical-offset="567">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -72,6 +86,7 @@
         <option value="$PROJECT_DIR$/docs/Git基礎概念_00.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/Git安裝_01.md" />
+        <option value="$PROJECT_DIR$/docs/Git基本指令_02.md" />
       </list>
     </option>
   </component>
@@ -322,13 +337,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025773196" vertical-offset="0" max-vertical-offset="582">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/Git安裝_01.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13227513" vertical-offset="0" max-vertical-offset="975">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state vertical-scroll-proportion="-18.88889" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Git基本指令_02.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29100528" vertical-offset="0" max-vertical-offset="567">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
