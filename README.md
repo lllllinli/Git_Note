@@ -19,3 +19,5 @@
 [寫給大家的 Git 教學](http://www.slideshare.net/littlebtc/git-5528339)<br>
 4.Git Community Book 中文版。
 [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)<br>
+5.Tsung's Blog
+[Git 初學筆記 - 指令操作教學](http://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/)<br>
