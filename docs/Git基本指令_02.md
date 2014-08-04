@@ -45,7 +45,7 @@ $git commit -m “First Commit”
 * 修改檔案流程
 *
 * 1.檢察工作區狀態。
-* 2.把 README 加入到工作區。
+* 2.檢查衝突
 * 3.檢察工作區狀態。
 * 4.Commit 。
 */
@@ -53,7 +53,7 @@ $git commit -m “First Commit”
 編輯 README 做些變更
 $git status
 $git diff
-$git add .  	(一次加入所有變更跟新增檔案，但不包括刪除的檔案!)
+$git add.  	(一次加入所有變更跟新增檔案，但不包括刪除的檔案!)
 $git status
 $git diff --cached
 $git commit -m “Update README”
