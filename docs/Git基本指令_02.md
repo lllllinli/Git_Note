@@ -19,6 +19,24 @@ $git init
 
 
 `````
+##第一次 Commit##
+
+`````
+/*
+* 第一次 Commit
+*
+* 1.建立一個 README.md 檔。
+* 2.把 README 加入到工作區。
+* 3.檢察工作區狀態。
+* 4.Commit 。
+*/
+
+$touch README
+$git add README
+$git status
+$git commit -m “First Commit”
+
+`````
 
 
 
