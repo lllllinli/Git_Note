@@ -14,4 +14,6 @@
 1.Pro Git 繁體中文版。
 [http://git-scm.com/book/zh-tw/](http://git-scm.com/book/zh-tw/)<br>
 2.ihower Git 版本控制系統。
-[http://ihower.tw/git/index.html](http://ihower.tw/git/index.html)
+[http://ihower.tw/git/index.html](http://ihower.tw/git/index.html)<br>
+3.寫給大家的 Git 教學。
+[寫給大家的 Git 教學](http://www.slideshare.net/littlebtc/git-5528339)
