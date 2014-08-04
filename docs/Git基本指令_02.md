@@ -47,7 +47,7 @@ $git commit -m “First Commit”
 * 1.檢察工作區狀態。
 * 2.檢查衝突
 * 3.檢察工作區狀態。
-* 4.Commit 。
+* 4.Commit 加註解。
 */
 
 編輯 README 做些變更
@@ -61,6 +61,11 @@ $git commit -m “Update README”
 `````
 
 ##3.回復前一個版本##
+
+`````
+$git reset HAND
+
+`````
 
 
 
