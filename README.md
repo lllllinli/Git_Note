@@ -8,6 +8,9 @@
 2.Git基礎概念_00：
 [Git基礎概念_00](https://github.com/lllllinli/Git_Note/blob/master/docs/Git%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5_00.md)
 <br>
+3.Git安裝
+
+
 #####參考資料#####
 
 
