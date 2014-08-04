@@ -16,4 +16,6 @@
 2.ihower Git 版本控制系統。
 [http://ihower.tw/git/index.html](http://ihower.tw/git/index.html)<br>
 3.寫給大家的 Git 教學。
-[寫給大家的 Git 教學](http://www.slideshare.net/littlebtc/git-5528339)
+[寫給大家的 Git 教學](http://www.slideshare.net/littlebtc/git-5528339)<br>
+4.Git Community Book 中文版。
+[Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)<br>
