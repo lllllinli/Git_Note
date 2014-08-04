@@ -53,7 +53,7 @@ $git commit -m “First Commit”
 編輯 README 做些變更
 $git status
 $git diff
-$git add.  	(一次加入所有變更跟新增檔案，但不包括刪除的檔案!)
+$git add .  	(一次加入所有變更跟新增檔案，但不包括刪除的檔案!)
 $git status
 $git diff --cached
 $git commit -m “Update README”
@@ -61,6 +61,8 @@ $git commit -m “Update README”
 `````
 
 ##3.回復前一個版本##
+
+
 
 
 
