@@ -24,3 +24,5 @@
 [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)<br>
 5.Tsung's Blog
 [Git 初學筆記 - 指令操作教學](http://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/)<br>
+6.阮一峰的网络日志。（Git远程操作详解）
+[Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)<br>
