@@ -63,10 +63,48 @@ $git commit -m “Update README”
 ##3.回復前一個版本##
 
 `````
-$git reset HAND
+/*
+* 檔案已經 commit ，刪除檔案．
+*/
+
+$git reset HEAD <file>...
 
 `````
+##4.Git 刪除已經commit的檔案 ##
 
+`````
+/*
+* 檔案已經 commit ，刪除檔案．
+*/
+
+$git rm filename
+
+`````
+##5.Git 移動或更名已經commit的檔案 ##
+
+`````
+/*
+* 檔案已經 commit ，更名檔案．
+
+*/
+
+$git rm filename newFilename
+
+`````
+##6.Git Commit的幾種指令 ##
+
+`````
+/*
+* 
+*
+*/
+
+$git commit
+$git commit -m 'commit message'
+$git commit -a -m 'commit -message' # 將所有修改過得檔案都 commit, 但是 新增的檔案 還是得要先 add.
+$git commit -a -v # -v 可以看到檔案哪些內容有被更改, -a 把所有修改的檔案都 commit
+
+`````
 
 
 
