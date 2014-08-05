@@ -123,8 +123,56 @@ $git push
 $git pull
 
 `````
+##6.建立  .gitignore 檔##
 
+####(1).建立####
 
+`````
+$cd 專案目錄下
+$touch .gitignore
+
+`````
+####(1).編寫方式####
+
+#####注意-#####
+
+`````
+//空白列或者以#開頭的列會被忽略。
+//可使用標準的Glob pattern。
+//可以/結尾，代表是目錄。
+//可使用!符號將特徵反過來使用。
+
+`````
+#####範例-#####
+
+`````
+# 註解，會被忽略。
+# 不要追蹤檔名為 .a 結尾的檔案
+*.a
+# 但是要追蹤 lib.a，即使上方已指定忽略所有的 .a 檔案
+!lib.a
+# 只忽略根目錄下的 TODO 檔案。 不包含子目錄下的 TODO
+/TODO
+# 忽略build/目錄下所有檔案
+build/
+# 忽略doc/notes.txt但不包含doc/server/arch.txt
+doc/*.txt
+# ignore all .txt files in the doc/ directory
+doc/**/*.txt
+
+`````
+#####常用忽略commit檔案設定#####
+
+`````
+tmp/*
+log/*
+你個人環境的設定檔(例如你偏愛的編輯器設定檔)
+可以自動產生的檔案
+build/* 等 compile 之後的檔案
+.DS_Store
+Thumbs.rb
+
+`````
 
 ####參考資料####
 1.git-scm。[http://git-scm.com/book/zh-tw/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9AGit](http://git-scm.com/book/zh-tw/%E9%96%8B%E5%A7%8B-%E5%88%9D%E6%AC%A1%E8%A8%AD%E5%AE%9AGit)
