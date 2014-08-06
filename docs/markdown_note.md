@@ -19,7 +19,12 @@ Git_Note
 
 #####參考網站#####
 
-1.[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-2.[編輯工具（mouapp）](http://mouapp.com/)
+1.Mastering Markdown。<br>
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+<br>
+2.編輯工具。<br>
+[編輯工具（mouapp）](http://mouapp.com/)
+<br>
+3.線上工具。<br>
+[http://daringfireball.net/](http://daringfireball.net/projects/markdown/dingus)
 
