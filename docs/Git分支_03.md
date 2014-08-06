@@ -26,7 +26,7 @@ $git checkout <branchName>
 ##4.合併分支##
 
 `````
-$git 
+$git test  error
 
 `````
 
