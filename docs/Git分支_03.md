@@ -17,9 +17,6 @@ $git branch <branchName>
 `````
 //修改測試
 
-`````
-
-`````
 $git checkout <branchName>
 
 `````
